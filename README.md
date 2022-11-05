@@ -37,7 +37,7 @@ Fórum de interações que abrange a conversação entre mulheres que são da á
   <a href="https://www.github.com/luizcaboclo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   
   
-### Linguagens e programas usados nos projeto: 
+### Linguagens e programas usados no projeto: 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
