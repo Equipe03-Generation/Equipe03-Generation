@@ -6,11 +6,30 @@
 </div>
   
 ### Desenvolvedores(as) da Equipe 03:
-  Ana Carolina 
-  Raquel Soares
-  Kaio Lima
-  Gustavo Rocha
-  Lucas Campos
+   - Ana Carolina:
+ 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+  - Raquel Soares:
+   
+  <a href="https://www.linkedin.com/in/raquel-soares-pereira-3898721a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  - Gustavo Rocha:
+   
+  <a href="https://www.linkedin.com/in/gustavo-rocha-860706250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ - Lucas Campos:
+   
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+ - Kaio Lima:
+   
+  <a href="https://www.linkedin.com/in/kaiolima77" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ - Jose Luiz:
+  
+  <a href="https://www.linkedin.com/in/jose-luiz-santos-a06873136" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   
 ### Linguagens e programas usados nos projetos: 
   
