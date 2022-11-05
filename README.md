@@ -1,4 +1,4 @@
-### Sejam todos bem-vindos !
+### Sejam todos bem-vindos 👋
 
 
 - Sobre o projeto Dev Girls
