@@ -1,9 +1,8 @@
 ### Sejam todos bem-vindos 👋
 
-<div align="center">
-  <a href="https://github.com/Equipe03-Generation">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Equipe03-Generation&layout=compact&langs_count=7&theme=moltack"/>
-</div>
+- Sobre o projeto de fórum Dev Girls: 
+
+Fórum de interações que abrange a conversação entre mulheres que são da área e mulheres interessadas a ingressar, com foco em perguntas e respostas sobre inovações e conceitos de programação. visto que há uma desigualdade, esse fórum tem um público alvo pois trata-se de uma ação afirmativa com o intuito de colocar mais mulheres no ramo da tecnologia.
   
 ### Desenvolvedores(as) da Equipe 03:
    - Ana Carolina
