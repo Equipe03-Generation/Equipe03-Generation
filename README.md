@@ -5,6 +5,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Equipe03-Generation&layout=compact&langs_count=7&theme=moltack"/>
 </div>
   
+### Desenvolvedores(as) da Equipe 03:
+  Ana Carolina 
+  Raquel Soares
+  Kaio Lima
+  Gustavo Rocha
+  Lucas Campos
+  
 ### Linguagens e programas usados nos projetos: 
   
   <div style="display: inline_block"><br>
