@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Equipe03-Generation">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Equipe03-Generation&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Equipe03-Generation&layout=compact&langs_count=7&theme=moltack"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Equipe03-Generation&show_icons=true&theme=moltack&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Equipe03-Generation&layout=compact&langs_count=7&theme=moltack"/>
 </div>
   
 ### Linguagens e programas usados nos projetos: 
