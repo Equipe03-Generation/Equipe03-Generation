@@ -1,5 +1,4 @@
-### Sejam todos bem-vindos 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70C0C&width=435&lines=Bem-vindos+ao+perfil+da+Equipe+03;Apelidado+de+Lady+Debug+%F0%9F%90%9E;Mais+informa%C3%A7%C3%B5es+abaixo+%F0%9F%91%87)](https://git.io/typing-svg)
 
 - Sobre o projeto Dev Girls
 
