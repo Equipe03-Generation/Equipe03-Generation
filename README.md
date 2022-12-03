@@ -7,7 +7,7 @@ Fórum de interações que abrange a conversação entre mulheres que são da á
 ### Desenvolvedores(as) da Equipe 03:
   - Ana Carolina
  
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carolina-tavares-71731b21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.github.com/anacahrowl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
   
   - Raquel Soares
