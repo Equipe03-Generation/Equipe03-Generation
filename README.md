@@ -5,38 +5,50 @@
 Fórum de interações que abrange a conversação entre mulheres que são da área e mulheres interessadas a ingressar, com foco em perguntas e respostas sobre inovações e conceitos de programação. Visto que há uma desigualdade, esse fórum tem um público alvo pois trata-se de uma ação afirmativa com o intuito de colocar mais mulheres no ramo da tecnologia.
   
 ### Desenvolvedores(as) da Equipe 03:
-  - Ana Carolina
- 
+  <Grid align="center">
+  <p align="center">- Ana Carolina
+  <br>
   <a href="https://www.linkedin.com/in/carolina-tavares-71731b21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.github.com/anacahrowl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://www.github.com/anacahrowl" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </Grid>
   
-  - Raquel Soares
-   
+  <Grid align="center">
+  <p align="center">- Raquel Soares
+  <br>
   <a href="https://www.linkedin.com/in/raquel-soares-pereira-3898721a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.github.com/RaquelSoaresDeveloper" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+      </Grid>
   
-  - Gustavo Rocha
-   
+  <Grid align="center">
+  <p align="center">- Gustavo Rocha
+  <br>
   <a href="https://www.linkedin.com/in/gustavo-rocha-860706250" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.github.com/gust-tech" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+      </Grid>
   
-  - Lucas Campos
-   
+   <Grid align="center">
+   <p align="center">- Lucas Campos
+   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.github.com/lucascampos99" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+       </Grid>
   
-  - Kaio Lima
-   
+   <Grid align="center">
+   <p align="center">- Kaio Lima
+   <br>
   <a href="https://www.linkedin.com/in/kaiolima77" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.github.com/kaiolima77" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+    </Grid>
   
-  - Jose Luiz
-  
+   <Grid align="center">
+   <p align="center">- Jose Luiz
+   <br>
   <a href="https://www.linkedin.com/in/jose-luiz-santos-a06873136" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.github.com/luizcaboclo" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+    </Grid>
   
   
-### Linguagens, frameworks e programas usados no projeto: 
+<h1 align="center"> Linuagens, frameworks e programas usados no projeto: 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
