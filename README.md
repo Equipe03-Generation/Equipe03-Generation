@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img align="center" sc="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71831&width=435&lines=Bem-vindos+ao+perfil+da+Equipe+03;Apelidado+de+Lady+Debug+%F0%9F%90%9E;Mais+informa%C3%A7%C3%B5es+abaixo+%F0%9F%91%87" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71831&center=true&width=435&lines=Bem-vindos+ao+perfil+da+Equipe+03;Apelidado+de+Lady+Debug+%F0%9F%90%9E;Mais+informa%C3%A7%C3%B5es+abaixo+%F0%9F%91%87)](https://git.io/typing-svg)
+ 
 <h3 align="center">• Sobre o projeto Dev Girls</h3>
 
 <p align="center"> Fórum de interações que abrange a conversação entre mulheres que são da área e mulheres interessadas a ingressar, com foco em perguntas e respostas sobre inovações e conceitos de programação. Visto que há uma desigualdade, esse fórum tem um público alvo pois trata-se de uma ação afirmativa com o intuito de colocar mais mulheres no ramo da tecnologia.
