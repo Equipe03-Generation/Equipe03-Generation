@@ -1,4 +1,4 @@
-<h3 align="center">• Sobre o projeto Dev Girls</h3>
+<h3 align="center">• Sobre o projeto Dev Girls 👇</h3>
 
 <p align="center"> Fórum de interações que abrange a conversação entre mulheres que são da área e mulheres interessadas a ingressar, com foco em perguntas e respostas sobre inovações e conceitos de programação. Visto que há uma desigualdade, esse fórum tem um público alvo pois trata-se de uma ação afirmativa com o intuito de colocar mais mulheres no ramo da tecnologia.
   
