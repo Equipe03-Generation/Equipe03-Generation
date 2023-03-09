@@ -2,13 +2,13 @@
 
 <p align="center">Blog de interações que abrange a conversação entre mulheres que são da área de desenvolvimento e mulheres interessadas a ingressar, com foco em perguntas e respostas sobre inovações e conceitos de programação.
 </br>
-Link: https://lady-debug.vercel.app/
+
 
 <h3 align="center">• Projeto GenWorkTable ↴</h3>
 
 <p align="center">Plataforma para envio e visualização de projetos realizados pelas turmas da Generation Brasil.
 </br>
-Link: https://gen-work-table.vercel.app/
+
   
 <h3 align="center">• Desenvolvedores(as) da Equipe 03:</h3>
   
