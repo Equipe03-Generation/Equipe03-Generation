@@ -1,3 +1,9 @@
+<h3 align="center">• ProjetoX ↴</h3>
+
+<p align="center">em breve...
+</br>
+
+
 <h3 align="center">• Projeto Lady Debug ↴</h3>
 
 <p align="center">Blog de interações que abrange a conversação entre mulheres que são da área de desenvolvimento e mulheres interessadas a ingressar, com foco em perguntas e respostas sobre inovações e conceitos de programação.
