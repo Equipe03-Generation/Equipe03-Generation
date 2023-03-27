@@ -12,7 +12,7 @@ Status: Estável ✅
 </br>
 
 
-<h3 align="center">• Projeto GenWorkTable ↴</h3>
+<h3 align="center">• Projeto Programmers' Haven ↴</h3>
 
 <p align="center">Plataforma para envio e visualização de projetos realizados pelas demais turmas do bootcamp. Realizado durante o mini hackathon de 4 dias da Generation.
 <br/>
