@@ -16,7 +16,7 @@
 </br>
 
   
-<h3 align="center">• Desenvolvedores(as) da Equipe 03:</h3>
+<h3 align="center">• Desenvolvedores(as) da Equipe 3:</h3>
   
   <Grid align="center">
   <p align="center">- Ana Carolina ♀️
