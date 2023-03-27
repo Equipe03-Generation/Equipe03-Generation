@@ -1,18 +1,22 @@
 <h3 align="center">• ProjetoX ↴</h3>
 
-<p align="center">em breve...
+<p align="center">Status: Planejamento 💡
 </br>
 
 
 <h3 align="center">• Projeto Lady Debug ↴</h3>
 
 <p align="center">Blog de interações que abrange a conversação entre mulheres que são da área de desenvolvimento e mulheres interessadas a ingressar, com foco em perguntas e respostas sobre inovações e conceitos de programação.
+<br/>
+Status: Estável ✅
 </br>
 
 
 <h3 align="center">• Projeto GenWorkTable ↴</h3>
 
-<p align="center">Plataforma para envio e visualização de projetos realizados pelas turmas da Generation Brasil.
+<p align="center">Plataforma para envio e visualização de projetos realizados pelas demais turmas do bootcamp. Realizado durante o mini hackathon de 4 dias da Generation.
+<br/>
+Status: Descontinuado ❌
 </br>
 
   
