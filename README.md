@@ -1,6 +1,9 @@
 <h3 align="center">• ProjetoX ↴</h3>
 
-<p align="center">Status: Planejamento 💡
+<p align="center">em breve
+</br>
+<br>
+Status: Planejamento 💡
 </br>
 
 
