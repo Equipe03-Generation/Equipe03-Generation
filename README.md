@@ -2,15 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Sejam+bem-vindos+a+nosso+portif%C3%B3lio!;Abaixo+informa%C3%A7%C3%B5es+sobre+os+projetos" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">• ProjetoX ↴</h3>
-
-<p align="center">em breve
-</br>
-<br>
-Status: Planejamento 💡
-</br>
-
-
 <h3 align="center">• Projeto Lady Debug ↴</h3>
 
 <p align="center">Blog de interações que abrange a conversação entre mulheres que são da área de desenvolvimento e mulheres interessadas a ingressar, com foco em perguntas e respostas sobre inovações e conceitos de programação. Trabalho apresentado como projeto integrador final do bootcamp.
